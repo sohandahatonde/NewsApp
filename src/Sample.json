@@ -1,0 +1,227 @@
+{
+    "status": "ok",
+    "totalResults": 17,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Ali Bauman",
+            "title": "Rain slows and floodwaters recede, but New Yorkers' anger grows",
+            "description": "Some lawmakers and business owners say the city did not do enough to warn people about Friday's deluge.",
+            "url": "https://www.cbsnews.com/newyork/news/storm-brings-flooding-damage-to-parts-of-brooklyn-and-beyond/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/29/81ca1f84-106d-44f2-9a5e-7416d546fa1d/thumbnail/1200x630/93dc9ecab4fd6d4083763fc7ce7c7e08/gettyimages-1708106053.jpg?v=42bbcea0e3eaab3fb7d470f54c86b0bd",
+            "publishedAt": "2023-10-01T03:59:00+00:00",
+            "content": "Flood water begin to recede, but anger grows for many New Yorkers \r\nFlood water begin to recede, but anger grows for many New Yorkers03:03\r\nNEW YORK -- There was frustration Friday from New Yorkers w… [+3930 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Nicole McCain",
+            "title": "Counting the cost: Western Cape businesses shoulder brunt of flood damages",
+            "description": "Western Cape businesses in the tourism and agriculture sectors are likely to feel the effects of recent rains and flooding long after the water subsides.",
+            "url": "https://www.news24.com/news24/southafrica/news/counting-the-cost-western-cape-businesses-shoulder-brunt-of-flood-damages-20230930",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9432/df8dccb5516743b88c736a0802e37193.jpg",
+            "publishedAt": "2023-09-30T08:30:55",
+            "content": "<ul><li>Businesses are still counting the cost of the recent heavy rains and flooding in the Western Cape.</li><li>Among the worst-affected areas are the Cape Winelands and Overberg.</li><li>The Herm… [+5497 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Emma-Jo Morris",
+            "title": "Morris: Ten Questions the Bidens Should Be Asked by Congress",
+            "description": "Hunter and James Biden were subpoenaed Thursday as Congress looks to discern to what extent Joe Biden is tied up in his family's business.",
+            "url": "http://www.breitbart.com/politics/2023/09/29/morris-ten-questions-bidens-should-be-asked-congress/",
+            "urlToImage": "https://media.breitbart.com/media/2023/06/Joe-and-Hunter-Biden-640x335.jpg",
+            "publishedAt": "2023-09-30T02:31:16Z",
+            "content": "House Oversight Committee Chair James Comer (R-KY) subpoenaed Hunter and James Biden on Thursday, as Congress looks to discern to what extent President Joe Biden is tied up in his family’s overseas b… [+2933 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "SpaceX Starlink Has Added Double Speed Priority Plans | NextBigFuture.com",
+            "description": "SpaceX Starlink has introduced double speed priority internet service plans for residential, business and mobile customers.",
+            "url": "https://www.nextbigfuture.com/2023/09/spacex-starlink-has-added-double-speed-priority-plans.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/09/Screen-Shot-2023-09-28-at-4.09.59-PM.jpg",
+            "publishedAt": "2023-09-28T23:29:11Z",
+            "content": "SpaceX Starlink has introduced double speed priority internet service plans for residential, business and mobile customers.\r\nThe priority speed will be double the standard service plan speed. The Sta… [+1641 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": null,
+            "title": "15-jähriger Gründer manipulierte alle – spielte er auch eine Rolle bei einem dubiosen Flughafen-Verkauf?",
+            "description": "Der Teenie-Gründer Adem Karagöz soll Businesspartnern hunderttausende Euro schulden. Jetzt versprach er einen Kredit für einen Flughafen.",
+            "url": "https://www.businessinsider.de/gruenderszene/media/15-jaehriger-gruender-manipulierte-alle-spielte-er-auch-eine-rolle-bei-einem-dubiosen-flughafen-verkauf/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2023/02/202302_GS_Artikel_1800x1200.jpg?ver=1676993916",
+            "publishedAt": "2023-09-28T13:21:26+00:00",
+            "content": "Der Teenie-Gründer Adem Karagöz soll Geschäftspartner um hunderttausende Euro gebracht haben. Jetzt soll er sogar einen Kredit für einen Flughafen-Kauf versprochen haben.Fake-Firmen, dubiose Krypto-P… [+4873 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "Financial Post",
+            "description": "Financial Times offers the latest news on finance and business. Keep on top of what's happening in Canada's financial market.",
+            "url": "http://business.financialpost.com/category/financial-times/",
+            "urlToImage": "https://dcs-static.gprod.postmedia.digital/14.5.3/websites/images/fp/ogimage-fp.png",
+            "publishedAt": "2023-09-26T18:22:21.9387323Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Alana Semuels",
+            "title": "Rooftop Solar Power Has a Dark Side",
+            "description": "The companies that own many leased solar systems on Americans' rooftops are going out of business, leaving homeowners with failing panels.",
+            "url": "http://time.com/6317339/rooftop-solar-power-failure/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2023/09/Solar-panel-fail.gif",
+            "publishedAt": "2023-09-26T12:42:04Z",
+            "content": "This year, during the heat of summer, when temperatures in New York surpassed 90°F, the 22 solar panels on the roof of my house were doing absolutely nothing.\r\nThis is not something I learned until S… [+24936 chars]"
+        },
+        {
+            "source": {
+                "id": "recode",
+                "name": "Recode"
+            },
+            "author": "Peter Kafka",
+            "title": "Rupert Murdoch steps down as chairman of Fox and News Corp: What we know",
+            "description": "In November, Rupert Murdoch will step down from his media empire. His son, Lachlan Murdoch, will steer the family business from now on. Here’s what we know.",
+            "url": "https://www.vox.com/technology/2023/9/21/23884119/rupert-murdoch-fox-news-lachlan-james-succession",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/21gje3puqOTBb3O8jYr4iVRp4Xw=/0x0:3936x2061/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24940796/GettyImages_1258950748.jpg",
+            "publishedAt": "2023-09-21T17:15:35Z",
+            "content": "Rupert Murdoch spent a lifetime building one of the worlds most important media empires. Now, at age 92, he says hes no longer going to run it day to day. \r\nIn November, Murdoch will step down as cha… [+4946 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Major business group blames Biden for UAW strike",
+            "description": "The United Auto Workers announced a strike at three plants — one each at Ford, General Motors and Stellantis — overnight.",
+            "url": "https://www.politico.com/news/2023/09/15/chamber-blames-biden-for-uaw-strike-00116216",
+            "urlToImage": "https://static.politico.com/bd/2c/a23ba1894935970bfe33fc3a9cc4/https-delivery-gettyimages.com/downloads/1241221279",
+            "publishedAt": "2023-09-15T11:38:22+00:00",
+            "content": "The United Auto Workers announced a strike at three plants one each at Ford, General Motors and Stellantis overnight after failing to agree on a contract with the so-called Big Three auto companies. … [+2220 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": null,
+            "title": "Strategy",
+            "description": "What You Need To Know About Business Strategy And Being Successful",
+            "url": "http://www.businessinsider.com/warroom",
+            "urlToImage": "https://www.businessinsider.com/public/assets/INSIDER/US/og-image-logo-social.png",
+            "publishedAt": "2023-08-23T15:52:30.1021883Z",
+            "content": "Social media sparked a rise in popularity for \"house hacking,\" a fancy new term for buying a home and bringing on roommates to pay for the mortgage.\r\nAI is a tsunami about to upend the global economy… [+6713 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider-uk",
+                "name": "Business Insider (UK)"
+            },
+            "author": null,
+            "title": "Strategy",
+            "description": "What You Need To Know About Business Strategy And Being Successful",
+            "url": "http://uk.businessinsider.com/warroom",
+            "urlToImage": "https://www.businessinsider.com/public/assets/INSIDER/US/og-image-logo-social.png",
+            "publishedAt": "2023-08-23T15:52:29.9303562Z",
+            "content": "Social media sparked a rise in popularity for \"house hacking,\" a fancy new term for buying a home and bringing on roommates to pay for the mortgage.\r\nAI is a tsunami about to upend the global economy… [+6713 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Alex Fitzpatrick, Kavya Beheraj",
+            "title": "The country's new business hot spots, mapped",
+            "description": "The Southeastern U.S. is a hotbed of new business activity.",
+            "url": "https://www.axios.com/2023/07/13/new-business-hot-spots",
+            "urlToImage": "https://images.axios.com/aDr8aF2q-EoHWlnE6VUNLPYxpRE=/0x0:1280x720/1366x768/2023/07/12/1689197791881.png",
+            "publishedAt": "2023-07-13T09:30:06Z",
+            "content": "The Southeastern U.S. is a hotbed of new business activity, home to nine of the top 10 major metro areas with the most new business applications per 1,000 residents last year.\r\nDriving the news: That… [+1716 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "Financial Post",
+            "description": "Looking for advice on your career? The Financial Post's Work section offers tips from experts on business and work life.",
+            "url": "http://business.financialpost.com/category/fp-work/",
+            "urlToImage": "https://dcs-static.gprod.postmedia.digital/13.5.3/websites/images/fp/ogimage-fp.png",
+            "publishedAt": "2023-05-17T20:37:35.1964584Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "Financial Post",
+            "description": "Stay updated on the Canadian economy with the Financial Post's latest business stories on Canadian industries, trade, policy, jobs and more.",
+            "url": "http://business.financialpost.com/category/news/economy/",
+            "urlToImage": "https://dcs-static.gprod.postmedia.digital/13.5.3/websites/images/fp/ogimage-fp.png",
+            "publishedAt": "2023-05-17T20:37:25.9932883Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Mark Davis",
+            "title": "Newsweek",
+            "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+            "url": "https://www.newsweek.com/",
+            "urlToImage": "https://d.newsweek.com/en/full/2202468/special-presidential-envoy-climate-john-kerry.jpg",
+            "publishedAt": "2023-03-01T12:07:28.8517009Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "‘Money is no object’: Ghislaine Maxwell trial shines light on class divide",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/0b9d93da-1687-4eb1-bd53-0a84a1b40dff",
+            "urlToImage": null,
+            "publishedAt": "2021-12-14T06:22:29.1165883Z",
+            "content": "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Need relief from the stress of screen time? There’s an app for that",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/221cf7c4-56e7-4c7e-b6c0-cc3737da0330",
+            "urlToImage": null,
+            "publishedAt": "2021-12-14T06:22:27.4295096Z",
+            "content": "Let our global subject matter experts broaden your perspective with timely insights and opinions you\r\ncant find anywhere else."
+        }
+    ]
+}
